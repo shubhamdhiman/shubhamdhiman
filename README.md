@@ -18,6 +18,7 @@
    ![Express.js](https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=expressjs)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
     ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![Redux](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)

@@ -1,6 +1,5 @@
 ### Hi there, I am Shubham 👋
-- 🔭 I’m currently working on building projects based upon ExpressJS MongoDB.
-- 🌱 I’m currently learning Backend
+- 🔭 I’m currently working on backend technologies.
 - 📫 How to reach me: shubhamdhiman00.sd@gmail.com
 - ⚡ Fun fact: I completed my B.Tech in Aerospace Engineering.
 - - 😄 Pronouns: He/Him

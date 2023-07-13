@@ -1,7 +1,7 @@
 ### Hi there, I am Shubham 👋
 - 🔭 I’m currently working on backend technologies.
 - 📫 How to reach me: shubhamdhiman00.sd@gmail.com
-- ⚡ Fun fact: I completed my B.Tech in Aerospace Engineering.
+- ⚡ Fun fact: I would love to change the world, but they won't give me the source code.
 - - 😄 Pronouns: He/Him
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
